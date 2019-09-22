@@ -1,2 +1,6 @@
-class Student < ActiveRecord::Base
+class Student < ActiveRecord::
+  
+  def to_s 
+    
+  end
 end
